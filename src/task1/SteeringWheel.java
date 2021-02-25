@@ -1,4 +1,4 @@
-package task2;
+package task1;
 
 import java.util.Random;
 
@@ -24,6 +24,4 @@ class SteeringWheel {
             default -> "Не було співпадінь.Випадкове значення змінної " + r;
         };
     }
-
-
 }
